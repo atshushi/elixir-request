@@ -1,4 +1,4 @@
-# Chika
+# Http Request
 
 To start the bot:
 
