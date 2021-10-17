@@ -1,6 +1,6 @@
 # Http Request
 
-To start the bot:
+To start the app:
 
 - Install dependencies with `mix deps.get`
 - Copy the config file with `cp config/config.example.exs config/config.exs` and fill in the file
